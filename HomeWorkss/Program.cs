@@ -109,6 +109,8 @@ class Program
 
         #endregion
 
+        #region Multiplication Table
+
         Console.WriteLine();
         Console.WriteLine("Not we are going to write multiplication table");
         Console.Write("Enter a number: ");
@@ -119,7 +121,27 @@ class Program
             int mul = i * input;
             Console.WriteLine($"{input} * {i} = {mul}");
         }
-        
 
+        Console.WriteLine();
+        #endregion
+
+        #region Square of num
+
+        Console.Write("Now enter a number to print even's squares: ");
+
+        var squareInput = Convert.ToInt32(Console.ReadLine());
+
+        for (int i = 0; i < squareInput; i++)
+        {
+            if (i % 2 == 0)
+            {
+                int square = i * i;
+                Console.WriteLine($"Square of {i} =  {square}");
+
+            }
         }
+
+        #endregion
+
+    }
     }
