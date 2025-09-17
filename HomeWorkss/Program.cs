@@ -89,6 +89,10 @@ class Program
         }
 
         #endregion
+        /*3. გაუცვალეთ ორ ცვლადს შორის მნიშვნელობები .
+           მაგ : Input x = 5 ; y = 12
+           Output : x =12 ; y = 5;
+         */
 
         #region Place swapping
 
@@ -108,6 +112,10 @@ class Program
         Console.WriteLine($"Number two is now: {num2}");
 
         #endregion
+        
+        /*4. დაწერეთ პროგრამა რომელიც მიიღებს კონსოლიდან 1 რიცხვს და დაბეჭდავს
+           გამრავლების ტაბულას ამ რიცხვისთვის
+           a. შენიშვნა : გამოიყენეთ ციკლი.*/
 
         #region Multiplication Table
 
@@ -124,6 +132,9 @@ class Program
 
         Console.WriteLine();
         #endregion
+        
+        /*დაწერეთ პროგრამა რომელიც იპოვის ყველა ლუწ რიცხვს 1 დან n - მდე და
+           დაბეჭდავს მათ კვადრატებს*/
 
         #region Square of num
 
@@ -142,6 +153,6 @@ class Program
         }
 
         #endregion
-
+        
     }
     }
