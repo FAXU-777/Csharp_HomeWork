@@ -92,6 +92,8 @@ class Program
 
         #region Place swapping
 
+        Console.WriteLine();
+
         Console.WriteLine("Now we are going to swap places between two numbers.");
         Console.Write("Enter number one: ");
         var num1 = Convert.ToInt32(Console.ReadLine());
@@ -101,11 +103,22 @@ class Program
         int temps = num1;
         num1 = num2;
         num2 = temps;
-
+        Console.WriteLine();
         Console.WriteLine($"Number one is now: {num1}");
         Console.WriteLine($"Number two is now: {num2}");
 
         #endregion
+
+        Console.WriteLine();
+        Console.WriteLine("Not we are going to write multiplication table");
+        Console.Write("Enter a number: ");
+        int input = Convert.ToInt32(Console.ReadLine());
+
+        for (int i = 1; i <= 10; i++)
+        {
+            int mul = i * input;
+            Console.WriteLine($"{input} * {i} = {mul}");
+        }
         
 
         }

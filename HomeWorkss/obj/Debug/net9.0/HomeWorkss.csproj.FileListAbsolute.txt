@@ -1,0 +1,15 @@
+/Users/appleuser/Course/HomeWorkss/HomeWorkss/bin/Debug/net9.0/HomeWorkss
+/Users/appleuser/Course/HomeWorkss/HomeWorkss/bin/Debug/net9.0/HomeWorkss.deps.json
+/Users/appleuser/Course/HomeWorkss/HomeWorkss/bin/Debug/net9.0/HomeWorkss.runtimeconfig.json
+/Users/appleuser/Course/HomeWorkss/HomeWorkss/bin/Debug/net9.0/HomeWorkss.dll
+/Users/appleuser/Course/HomeWorkss/HomeWorkss/bin/Debug/net9.0/HomeWorkss.pdb
+/Users/appleuser/Course/HomeWorkss/HomeWorkss/obj/Debug/net9.0/HomeWorkss.GeneratedMSBuildEditorConfig.editorconfig
+/Users/appleuser/Course/HomeWorkss/HomeWorkss/obj/Debug/net9.0/HomeWorkss.AssemblyInfoInputs.cache
+/Users/appleuser/Course/HomeWorkss/HomeWorkss/obj/Debug/net9.0/HomeWorkss.AssemblyInfo.cs
+/Users/appleuser/Course/HomeWorkss/HomeWorkss/obj/Debug/net9.0/HomeWorkss.csproj.CoreCompileInputs.cache
+/Users/appleuser/Course/HomeWorkss/HomeWorkss/obj/Debug/net9.0/HomeWorkss.sourcelink.json
+/Users/appleuser/Course/HomeWorkss/HomeWorkss/obj/Debug/net9.0/HomeWorkss.dll
+/Users/appleuser/Course/HomeWorkss/HomeWorkss/obj/Debug/net9.0/refint/HomeWorkss.dll
+/Users/appleuser/Course/HomeWorkss/HomeWorkss/obj/Debug/net9.0/HomeWorkss.pdb
+/Users/appleuser/Course/HomeWorkss/HomeWorkss/obj/Debug/net9.0/HomeWorkss.genruntimeconfig.cache
+/Users/appleuser/Course/HomeWorkss/HomeWorkss/obj/Debug/net9.0/ref/HomeWorkss.dll
