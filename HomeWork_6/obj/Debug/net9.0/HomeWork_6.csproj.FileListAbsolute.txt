@@ -1,0 +1,15 @@
+/Users/appleuser/RiderProjects/Csharp_HomeWork/HomeWork_6/bin/Debug/net9.0/HomeWork_6
+/Users/appleuser/RiderProjects/Csharp_HomeWork/HomeWork_6/bin/Debug/net9.0/HomeWork_6.deps.json
+/Users/appleuser/RiderProjects/Csharp_HomeWork/HomeWork_6/bin/Debug/net9.0/HomeWork_6.runtimeconfig.json
+/Users/appleuser/RiderProjects/Csharp_HomeWork/HomeWork_6/bin/Debug/net9.0/HomeWork_6.dll
+/Users/appleuser/RiderProjects/Csharp_HomeWork/HomeWork_6/bin/Debug/net9.0/HomeWork_6.pdb
+/Users/appleuser/RiderProjects/Csharp_HomeWork/HomeWork_6/obj/Debug/net9.0/HomeWork_6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/appleuser/RiderProjects/Csharp_HomeWork/HomeWork_6/obj/Debug/net9.0/HomeWork_6.AssemblyInfoInputs.cache
+/Users/appleuser/RiderProjects/Csharp_HomeWork/HomeWork_6/obj/Debug/net9.0/HomeWork_6.AssemblyInfo.cs
+/Users/appleuser/RiderProjects/Csharp_HomeWork/HomeWork_6/obj/Debug/net9.0/HomeWork_6.csproj.CoreCompileInputs.cache
+/Users/appleuser/RiderProjects/Csharp_HomeWork/HomeWork_6/obj/Debug/net9.0/HomeWork_6.sourcelink.json
+/Users/appleuser/RiderProjects/Csharp_HomeWork/HomeWork_6/obj/Debug/net9.0/HomeWork_6.dll
+/Users/appleuser/RiderProjects/Csharp_HomeWork/HomeWork_6/obj/Debug/net9.0/refint/HomeWork_6.dll
+/Users/appleuser/RiderProjects/Csharp_HomeWork/HomeWork_6/obj/Debug/net9.0/HomeWork_6.pdb
+/Users/appleuser/RiderProjects/Csharp_HomeWork/HomeWork_6/obj/Debug/net9.0/HomeWork_6.genruntimeconfig.cache
+/Users/appleuser/RiderProjects/Csharp_HomeWork/HomeWork_6/obj/Debug/net9.0/ref/HomeWork_6.dll
