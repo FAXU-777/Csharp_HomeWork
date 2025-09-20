@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkss", "HomeWorkss\HomeWorkss.csproj", "{DAC1CA4B-1B38-4D0A-95CF-3ADBF2F156AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork_6", "HomeWork_6\HomeWork_6.csproj", "{D0CCD0B4-F8BF-4010-8CB6-0CB3EFE52C6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{DAC1CA4B-1B38-4D0A-95CF-3ADBF2F156AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAC1CA4B-1B38-4D0A-95CF-3ADBF2F156AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAC1CA4B-1B38-4D0A-95CF-3ADBF2F156AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0CCD0B4-F8BF-4010-8CB6-0CB3EFE52C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0CCD0B4-F8BF-4010-8CB6-0CB3EFE52C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0CCD0B4-F8BF-4010-8CB6-0CB3EFE52C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0CCD0B4-F8BF-4010-8CB6-0CB3EFE52C6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
